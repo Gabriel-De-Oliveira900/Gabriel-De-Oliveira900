@@ -10,7 +10,7 @@ Hello! I’m Gabriel Jorge De Oluveira Fernandes, an aspiring IT Consultant focu
 
 I am driven by the belief that knowledge should be accessible, adaptable, and resilient, and I’m excited to help individuals and organizations consolidate, structure, and preserve knowledge—while ensuring data integrity and historical context across systems.
 
-🌌 The Ouroboros Framework(: A Holistic Approach to IT Systems 🐍(Launch 01.11.2024 Central Europe Time)
+🌌 The Ouroboros Framework(: A Holistic Approach to IT Systems 🐍(Launch 05.11.2024 Central Europe Time)
 
 Overview
 
@@ -43,7 +43,7 @@ Named after the cyclical Ouroboros symbol, this framework is self-referencing an
 	•	Key Features: Templates for categorizing languages by script, grammar, and syntax.
 	•	Use Cases: Communication standardization, knowledge sharing across languages, and learning aids.
 
-Vision & Future Goals (Launch 01.11.2024 Central Europe Time)🔭
+Vision & Future Goals (Launch 05.11.2024 Central Europe Time)🔭
 
 As I continue to develop the Ouroboros Framework, my goal is to:
 
